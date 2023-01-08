@@ -1,0 +1,25 @@
+.title {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+
+  }
+  
+  .text {
+    text-align: center;
+  }
+  .btn {
+    display: block;
+    width: 150px;
+    padding: 8px 0;
+    margin: 20px auto 40px;
+    background: #ffc600;
+    border-radius: 4px;
+    color: #fff;
+    text-align: center;
+  }
+  .mainImage {
+    width:300px;
+    margin:auto;
+  }
+  
